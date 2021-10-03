@@ -5,8 +5,7 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="main.css">
   </head>
-
-  <body>
+<body>
     <div class="page-description">
       <h3>Challenge yourself to complete one task everyday</h3>
     </div>
