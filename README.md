@@ -1,5 +1,3 @@
-# daily-dose-of-discomfort
-My first website!
 <html>
 
   <head>
