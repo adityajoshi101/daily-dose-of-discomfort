@@ -1,5 +1,7 @@
 <html>
-
+<head>
+<link rel=https://yestheory.com//css/style.css>
+</head>
   <head>
     <h1 class="page-title">Daily Dose of Discomfort</h1>
     <meta charset="utf-8" />
